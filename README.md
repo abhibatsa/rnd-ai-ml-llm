@@ -38,8 +38,8 @@ that fail gracefully, not just demo well.
 
 Same model as the flagship repo — content here stays free. Deeper,
 applied work happens through:
-- **Newsletter / YouTube:** [links]
-- **Consulting / Advisory:** [FuturestaQ link] — for teams building or
+- YouTube:** [https://youtube.com/@abhijeetbatsa]
+- **Consulting / Advisory:** [https://futurestaq.com] — for teams building or
   hardening their own AI/agentic systems
 
 ## 🤝 Contributing
@@ -51,4 +51,6 @@ differently" is non-negotiable on every case study).
 
 ## 📄 License
 
-MIT (recommended, matches the flagship repo — maximizes reuse/sharing).
+MIT 
+
+[![Profile Views](https://komarev.com/ghpvc/?username=abhibatsa&color=blue&style=flat)](https://github.com/abhibatsa)
